@@ -1,2 +1,3 @@
 # chores-game-js
-Chores game in javascript (done in codecademy)
+
+### Little game coded in Vanilla JavaScript done in codecademy
